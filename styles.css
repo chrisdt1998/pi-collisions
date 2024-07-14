@@ -1,0 +1,10 @@
+/* styles.css */
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden; /* Prevents scrolling bars */
+}
+
+canvas {
+    display: block; /* Removes the inline-block default margin */
+}
